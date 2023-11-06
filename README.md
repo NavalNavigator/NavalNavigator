@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @NavalNavigator.
 - 👀 I’m interested in Cloud Engineering and DevOps.
 - 🌱 I’m currently learning the Azure cloud environment.
-- 📫 You can contact me with my [email](mailto:eyob.eshetu@nedamcoacademy.org).
